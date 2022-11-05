@@ -1,6 +1,6 @@
 # change-validator
 
-Typescript ember addon with Tailwindcss boilerplate
+Changesets in ember object using Immer.
 
 ## Compatibility
 
@@ -10,13 +10,7 @@ Typescript ember addon with Tailwindcss boilerplate
 
 ## Installation
 
-```
-ember install change-validator
-```
-
 ## Usage
-
-[Longer description of how to use the addon in apps.]
 
 ## Contributing
 
